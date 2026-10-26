@@ -57,6 +57,15 @@ Subscription and purchase workflows for applicable platform features and marketp
 
 > Individual features, integration methods, limits and commercial terms depend on the current CodeHub offering. Check the [official website](https://codehub.mk) for details.
 
+
+## Developer workflows and discovery
+
+CodeHub connects **capture → organize → protect → reuse → share → sell** in one developer workspace. Common use cases include reusable code snippet libraries, private technical notes, AI prompt organization, project knowledge management, developer asset publishing and marketplace discovery.
+
+Its audience includes independent developers, software teams, technical creators and AI-assisted builders. Search topics include **code snippet manager**, **developer knowledge base**, **private code vault**, **AI prompt library**, **developer marketplace**, **project resource organizer** and **reusable source code**.
+
+[Македонски — презентација на CodeHub](README.mk.md).
+
 ## The developer asset lifecycle
 
 <div align="center">
