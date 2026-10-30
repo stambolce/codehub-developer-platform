@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 # CodeHub.mk — платформа за програмери
 
 [English](README.md) · [Официјална веб-страница](https://codehub.mk) · [PROCESS IN](https://processin.mk)

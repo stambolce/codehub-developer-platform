@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <a href="https://codehub.mk"><img src="assets/codehub-hero.svg" alt="CodeHub — developer infrastructure, code organization and marketplace" width="100%" /></a>
