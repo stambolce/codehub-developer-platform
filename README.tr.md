@@ -1,27 +1,21 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://codehub.mk"><img src="assets/codehub-hero.svg" alt="CodeHub — developer infrastructure, code organization and marketplace" width="100%" /></a>
+# CodeHub
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/codehub-hero.svg" alt="CodeHub — ürün görsel sunumu" width="100%" />
+
+**Sakla. Düzenle. Koru. Paylaş. Sat.**
 
 [![Official Website](https://img.shields.io/badge/CODEHUB.MK-OFFICIAL_WEBSITE-2389FA?style=for-the-badge)](https://codehub.mk)
 [![Get Started](https://img.shields.io/badge/START_FREE-CODEHUB-132137?style=for-the-badge)](https://codehub.mk)
 [![Marketplace](https://img.shields.io/badge/EXPLORE-MARKETPLACE-2389FA?style=for-the-badge)](https://codehub.mk)
 [![Company](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-132137?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-### Sakla. Düzenle. Koru. Paylaş. Sat.
-
-**Sakla. Düzenle. Koru. Paylaş. Sat.**
+**LIVE**
 
 </div>
-
----
 
 ## Kod parçası yöneticisinden fazlası: geliştirici altyapısı.
 
@@ -62,7 +56,7 @@ Kitle bağımsız geliştiriciler, yazılım ekipleri, teknik üreticiler ve AI 
 |---|---|
 | Ürün | CodeHub |
 | Resmî site | [codehub.mk](https://codehub.mk) |
-| Kategori | Geliştirici altyapısı ve yeniden kullanılabilir kod platformu |
+| Kategori | Kod parçaları, projeler, promptlar ve geliştirici pazarı |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |

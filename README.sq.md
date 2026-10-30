@@ -1,27 +1,21 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://codehub.mk"><img src="assets/codehub-hero.svg" alt="CodeHub — developer infrastructure, code organization and marketplace" width="100%" /></a>
+# CodeHub
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/codehub-hero.svg" alt="CodeHub — prezantim vizual i produktit" width="100%" />
+
+**Ruani. Organizoni. Mbroni. Ndani. Shisni.**
 
 [![Official Website](https://img.shields.io/badge/CODEHUB.MK-OFFICIAL_WEBSITE-2389FA?style=for-the-badge)](https://codehub.mk)
 [![Get Started](https://img.shields.io/badge/START_FREE-CODEHUB-132137?style=for-the-badge)](https://codehub.mk)
 [![Marketplace](https://img.shields.io/badge/EXPLORE-MARKETPLACE-2389FA?style=for-the-badge)](https://codehub.mk)
 [![Company](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-132137?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-### Ruani. Organizoni. Mbroni. Ndani. Shisni.
-
-**Ruani. Organizoni. Mbroni. Ndani. Shisni.**
+**LIVE**
 
 </div>
-
----
 
 ## Më shumë se menaxhim fragmentesh: infrastrukturë zhvilluesi.
 
@@ -62,7 +56,7 @@ Audienca përfshin zhvillues të pavarur, ekipe softueri, krijues teknikë dhe n
 |---|---|
 | Produkti | CodeHub |
 | Faqja zyrtare | [codehub.mk](https://codehub.mk) |
-| Kategoria | Platformë burimesh dhe infrastrukture zhvilluesish |
+| Kategoria | Fragmente kodi, projekte, promte dhe treg zhvilluesish |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |
